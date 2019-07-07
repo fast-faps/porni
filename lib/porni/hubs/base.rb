@@ -1,8 +1,5 @@
 require 'porni/hubs/pornhub'
-
-module Porni
-  module Hubs
-    class Base
-    end
-  end
-end
+require 'porni/hubs/porn'
+require 'porni/hubs/xvideos'
+require 'porni/hubs/spankbang'
+require 'porni/hubs/redtube'
