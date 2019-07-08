@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["marvelousito@fastfaps.com"]
   spec.summary       = "API from principal porn sites"
   spec.description   = "Gem works with pornhub.com, redtube.com, porn.com"
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "https://github.com/fastfaps/porni"
   spec.license       = "MIT"
 
   # Specify which files should be added to the gem when it is released.
@@ -21,7 +21,6 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "bundler", "~> 2.0"
   spec.add_development_dependency "rake", "~> 10.0"
   spec.add_development_dependency "rspec", "~> 3.0"
-  spec.add_development_dependency "byebug"
   spec.add_dependency 'http', '~> 4.1'
   spec.add_dependency 'oj', '~> 3.7'
   spec.add_dependency 'addressable', '~> 2.6'
