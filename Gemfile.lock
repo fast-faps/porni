@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    porni (0.1.0)
+    porni (1.0.0)
       addressable (~> 2.6)
       http (~> 4.1)
       oj (~> 3.7)
