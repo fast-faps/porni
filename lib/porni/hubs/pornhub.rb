@@ -16,7 +16,7 @@ module Porni
       end
 
       def get_video_standardized(id)
-        body = perform_request(:get, "/video_by_id?id=#{id}", {})
+        body = get_video(id)
         Porni::Hubs::Parser::PornhubParser.parse_video(body)
       end
     end

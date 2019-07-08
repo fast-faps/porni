@@ -11,7 +11,7 @@ module Porni
         end
 
         def invalid_attributes
-          { valid: false, body: @body }
+          { valid: false, raw: @body }
         end
       end
     end

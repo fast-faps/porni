@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Porni::VERSION
   spec.authors       = ["FastFaps"]
   spec.email         = ["marvelousito@fastfaps.com"]
-  spec.summary       = "Access principal porn sites apis"
-  spec.description   = "Gem works with pornhub, redtube"
+  spec.summary       = "API from principal porn sites"
+  spec.description   = "Gem works with pornhub.com, redtube.com, porn.com"
   spec.homepage      = "TODO: Put your gem's website or public repo URL here."
   spec.license       = "MIT"
 
